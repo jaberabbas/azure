@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bf0da523-1b8d-4e5e-b525-f4e9e6a04adf/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/az-hello",
+    "appService.deploySubpath": "."
+}
